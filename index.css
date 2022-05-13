@@ -1,0 +1,92 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	font-family: 'Lato', sans-serif;
+	scroll-behavior: smooth;
+}
+
+.header-size{
+	
+	font-family: 'Anonymous Pro', monospace;
+	 text-shadow: 2px 2px 8px #635380;
+
+
+}
+
+.subheader-size{
+	
+	font-family: 'Cutive Mono', monospace;
+	 text-shadow: 2px 2px 8px whitesmoke;
+
+}
+
+.subheader-size1{
+	
+	font-family: 'Cutive Mono', monospace;
+
+
+}
+
+
+
+.spaceblue{
+	background-color: #0C1122;
+}
+
+.cornblue{
+	background-color: #2D3F67;
+}
+
+.independence{
+	background-color: #625D74;
+}
+
+.cybergrape{
+	background-color: #635380;
+}
+
+.englishviolet{
+	background-color: #5f3b60;
+}
+
+.bg-star{
+	background-image: url("https://thumbs.gfycat.com/HighlevelWearyBubblefish-size_restricted.gif");
+	min-height: 100vh;
+    background-attachment: fixed;
+}
+
+.h1-light-text{
+	color: #5F3B60;
+}
+
+.footer{
+	word-spacing: 7px;
+}
+
+#nav1 
+{  
+    background-color: #0C1122; 
+    opacity: 0.8; 
+    box-shadow: 0 10px 35px 0 rgba(45, 63, 103, 0.2), 0 10px 35px 0 rgba(45, 63, 103, 0.19);
+}
+
+.box-shadow{
+	box-shadow: 0 10px 35px 0 rgba(45, 63, 103, 0.2), 0 10px 35px 0 rgba(45, 63, 103, 0.19);
+}
+
+.text-shadow{
+	text-shadow: 2px 2px 3px black;
+}
+
+.text-shadow-w{
+	text-shadow: 2px 2px 5px violet;
+	color: white;
+}
+
+.box-opa{
+	opacity: 0.8;
+}
